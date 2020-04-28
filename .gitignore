@@ -1,0 +1,7 @@
+.idea
+*.tfstate
+.terraform
+*.csv
+.git
+*.tfvars
+!*.tfvars.template
